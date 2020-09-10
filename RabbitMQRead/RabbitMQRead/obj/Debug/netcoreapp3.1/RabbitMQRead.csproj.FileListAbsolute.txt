@@ -1,0 +1,15 @@
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQRead.exe
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.csprojAssemblyReference.cache
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.AssemblyInfoInputs.cache
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.AssemblyInfo.cs
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQRead.deps.json
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQRead.runtimeconfig.json
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQRead.runtimeconfig.dev.json
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQRead.dll
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQRead.pdb
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\demo\RabbitMQRead\RabbitMQRead\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.csproj.CopyComplete
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.dll
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.pdb
+D:\demo\RabbitMQRead\RabbitMQRead\obj\Debug\netcoreapp3.1\RabbitMQRead.genruntimeconfig.cache
